@@ -24,4 +24,9 @@ Pages link : https://macarenaalvarezr.github.io/calculando-total/
 
 ---
 
-## 📂 Estructura del proyecto
+## 🚀 Cómo ejecutar el proyecto
+
+1. Clona el repositorio
+
+```bash
+git clone https://github.com/MacarenaAlvarezR/calculando-total
